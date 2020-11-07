@@ -9,4 +9,4 @@ git ls-files				---查看本地仓库所有文件
 git branch					---查看本地仓库分支情况
 git checkout -b 新分支名称	---在本地仓库创建新分支，同时切换到新分支上
 git checkout 分支名称		---切换到指定分支上
-git push origin 分支名称	---将本地仓库分支推送到远程仓库中
+git push 远程仓库名称 分支名称	---将本地仓库分支推送到远程仓库中
