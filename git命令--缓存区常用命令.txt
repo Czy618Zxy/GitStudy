@@ -1,0 +1,9 @@
+1，基本设置
+git config --global user.name '名称'	---设置用户名
+git config --global user.email '邮箱'	---设置邮箱
+
+
+2，暂存区操作
+git add 文件名	--将文件加入暂存区
+git reset HEAD	--将文件从暂存区撤回
+git status		--查看暂存区文件情况
