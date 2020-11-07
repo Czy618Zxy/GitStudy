@@ -4,5 +4,5 @@
 	
 	
 2，拉取步骤(从远程拉取至本地)
-	  克隆远程仓库项目			   拉取远程最新代码
-	git clone 远程仓库url	--->	   git pull
+  克隆远程仓库项目			   拉取远程最新代码
+git clone 远程仓库url	--->	   git pull
