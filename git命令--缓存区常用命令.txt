@@ -7,4 +7,4 @@ git config --global user.email '邮箱'	---设置邮箱
 git add 文件名	--将文件加入暂存区
 git reset HEAD	--将文件从暂存区撤回
 git status		--查看暂存区文件情况
-git diff HEAD	--查看缓存区与本地仓库文件的区别
+git diff HEAD --文件名	--查看缓存区与本地仓库文件的区别
